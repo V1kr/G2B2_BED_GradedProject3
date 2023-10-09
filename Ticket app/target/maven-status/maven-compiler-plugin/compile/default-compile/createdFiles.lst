@@ -1,0 +1,5 @@
+com\vikram\CRUDapp\controllers\TicketController.class
+com\vikram\CRUDapp\models\Ticket.class
+com\vikram\CRUDapp\CruDappApplication.class
+com\vikram\CRUDapp\services\TicketService.class
+com\vikram\CRUDapp\services\TicketRepository.class
